@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ml app</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="permission_deny_text">Required permissions denied. Exiting.</string>
+    <string name="tool_bar_text_view_content_description">TODO</string>
+    <string name="image_classification">Image Classification</string>
+</resources>
